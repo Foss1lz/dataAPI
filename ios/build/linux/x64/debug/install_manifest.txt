@@ -1,0 +1,12 @@
+/media/fossil/D/mobile/product_management/build/linux/x64/debug/bundle/product_management
+/media/fossil/D/mobile/product_management/build/linux/x64/debug/bundle/data/icudtl.dat
+/media/fossil/D/mobile/product_management/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/media/fossil/D/mobile/product_management/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/media/fossil/D/mobile/product_management/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/media/fossil/D/mobile/product_management/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/media/fossil/D/mobile/product_management/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/media/fossil/D/mobile/product_management/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/media/fossil/D/mobile/product_management/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/media/fossil/D/mobile/product_management/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/media/fossil/D/mobile/product_management/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/media/fossil/D/mobile/product_management/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
